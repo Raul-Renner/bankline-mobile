@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Olá, bem-vindo ao Santander Dev Week! Insira um ID de titular da conta
+        para visualizar seu extrato bancário</string>
+    <string name="txt_continue">Continuar</string>
+    <string name="extract">Extrato bancário</string>
+    <string name="id_do_correntista">ID do Correntista</string>
+</resources>

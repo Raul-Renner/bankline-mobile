@@ -1,0 +1,7 @@
+<resources>
+    <string name="welcome">Hello,welcome to Santander Dev Week! Enter an Account Holder ID
+    to view your bank statement</string>
+    <string name="txt_continue">Continue</string>
+    <string name="extract" translatable="false">Bank statement</string>
+    <string name="id_do_correntista">Account Holder ID</string>
+</resources>
